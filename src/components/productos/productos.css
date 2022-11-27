@@ -1,0 +1,61 @@
+#login-container{
+
+    margin-top: 10%
+}
+
+#login-container h2,
+#login-container button,
+#login-container form
+{
+    width: 100%
+
+}
+
+#login-container button{
+
+    margin-top: 15px;
+}
+
+#login-container .form-label{
+
+    float: left;
+
+}
+
+/* ++++++++++++++ BUSCAR ++++++++++++++ */
+
+#productos-buscar-container,
+#productos-crear-container {
+
+    margin-top: 50px;
+}
+
+.react-bs-table-sizePerPage-dropdown .dropdown-toggle{
+
+    float: left;
+    margin-bottom: 20px;
+}
+
+.search-Label {
+
+    float: right;
+    padding-bottom: 10px;
+}
+
+.sr-only{
+
+    font-size: 0;
+}
+
+#productos-container {
+
+    margin-top: 130px;
+
+}
+
+#productos-crear-container .form-label {
+
+    float: left;
+    margin-top: 10px;
+
+}

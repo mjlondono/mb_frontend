@@ -1,0 +1,45 @@
+#login-container{
+
+    margin-top: 10%
+}
+
+#login-container h2,
+#login-container button,
+#login-container form
+{
+    width: 100%
+
+}
+
+#login-container button{
+
+    margin-top: 15px;
+}
+
+#login-container .form-label{
+
+    float: left;
+
+}
+
+#comerciantes-buscar-container {
+
+    margin-top: 150px;
+}
+
+.react-bs-table-sizePerPage-dropdown .dropdown-toggle{
+
+    float: left;
+    margin-bottom: 20px;
+}
+
+.search-Label {
+
+    float: right;
+    padding-bottom: 10px;
+}
+
+.sr-only{
+
+    font-size: 0;
+}
